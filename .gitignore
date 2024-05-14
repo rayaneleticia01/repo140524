@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+
+# pasta a ignorar
+pasta_a_ignorar
